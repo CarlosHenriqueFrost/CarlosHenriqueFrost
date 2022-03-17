@@ -1,32 +1,40 @@
+<h1> Hello there <img src="https://media2.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif?cid=790b76119f67eab981c56343dac85a1a4af132f6a5a2928d&rid=giphy.gif&ct=g" width="50px" align="center"> I'm Carlos Henrique </h1>
 
 
-<h1> Hey man :v: How's it going? </h1
-<img src="https://komarev.com/ghpvc/?username=carloshenriquefrost&color=yellow" alt="Profile views" />
 
-<img align="right" height="250em" src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif"/>
-  
-<h1> I am: </h1>
- <p> Carlos Henrique, a 16 year old boy who is still learning programming and hopes to someday help someone across the lines of code </p>
-<h1 align="left"> I know about:   </h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqueEvangelista&layout=compact&theme=tokyonight" align="right" width="430px">
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqueEvangelista&show_icons=true&theme=tokyonight" align="right" width="430px">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<img src="https://komarev.com/ghpvc/?username=CarlosHenriqueEvangelista&color=blueviolet">
 
+- 16 years old student
+- [Rocketseat](https://github.com/Rocketseat) student
+- I understand from JavaScript, HTML, CSS, Git, Markdown and React
 
-<p align="right">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=carloshenriquefrost&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriquefrost&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
+<br><br>
+
+## currently studying
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=GitHub)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3)
+![Html 5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=for-the-badge&logo=visualstudiocode)
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)
+
+<img src="https://c.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" align="right">
+
+## You can also find me at
+
+<a href="https://www.linkedin.com/in/carlos-henrique-146164166/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px">
+</a>
 
 
 <!--
-**CarlosHenriqueFrost/CarlosHenriqueFrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CarlosHenriqueEvangelista/CarlosHenriqueEvangelista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
